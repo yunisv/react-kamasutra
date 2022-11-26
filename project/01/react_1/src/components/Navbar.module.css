@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    background-color: darkgreen;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+}
+
+.links>div {
+    margin-bottom: 5px;
+}
+
+.links>div>a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: large;
+}

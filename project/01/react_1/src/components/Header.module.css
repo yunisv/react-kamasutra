@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    height: 96px;
+    background-color: darkgreen;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.logo_box {
+    display: flex;
+    height: auto;
+    width: 100%;
+}
