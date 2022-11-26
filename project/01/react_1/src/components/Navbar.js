@@ -1,7 +1,9 @@
+import css from "./Navbar.module.css";
+
 const Navbar = () => {
     return (
-        <div className={"nav"}>
-            <div className={"links"}>
+        <div className={css.nav}>
+            <div className={css.links}>
                 <div>
                     <a href={"#s"}>Profile</a>
                 </div>
